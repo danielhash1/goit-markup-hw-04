@@ -139,7 +139,13 @@ a {
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
-  background-color: #2f303a;
+  background-image: url("/images/Imgback.jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  height: 600px;
 }
 
 .hero-txt {
