@@ -235,7 +235,7 @@ address {
       var(--box-shadow-8),
       var(--box-shadow-8)
     ),
-    url("../images/photo.jpg");
+    url("../images/bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
 }
